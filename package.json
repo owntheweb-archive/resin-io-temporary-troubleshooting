@@ -1,0 +1,16 @@
+{
+  "name": "resin-io-temporary-troubleshooting",
+  "version": "0.0.1",
+  "description": "This is a temporary repository created for use in a support ticket.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Christopher Stevens",
+  "license": "MST",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "pi-pins": "^1.0.2",
+    "promise": "^8.0.1"
+  }
+}
